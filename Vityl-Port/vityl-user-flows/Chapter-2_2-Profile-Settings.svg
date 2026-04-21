@@ -1,0 +1,79 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1920" height="1080" viewBox="0 0 1920 1080">
+  <defs>
+    <clipPath id="clip-Chapter_2.1_-_Profile_1">
+      <rect width="1920" height="1080"/>
+    </clipPath>
+  </defs>
+  <g id="Chapter_2.1_-_Profile_1" data-name="Chapter 2.1 - Profile – 1" clip-path="url(#clip-Chapter_2.1_-_Profile_1)">
+    <rect width="1920" height="1080" fill="#fff"/>
+    <rect id="Rectangle_1" data-name="Rectangle 1" width="1920" height="1080" fill="#1A1714"/>
+    <g id="Arrows" transform="translate(789.472 855.714) rotate(180)">
+      <path id="Line" d="M0,0H102.127c6.508,0,11.784,5.711,11.784,12.755V206.2c0,7.044-5.276,12.755-11.784,12.755H1.616" transform="translate(8 7)" fill="none" stroke="#e2515c" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>
+      <path id="Shape" d="M-1.409-.174A1,1,0,0,1,0,.738V13.26a1,1,0,0,1-1.409.913L-15.384,7.912a1,1,0,0,1,0-1.825Z" transform="translate(16 218.957)" fill="#e2515c"/>
+      <path id="Shape-2" data-name="Shape" d="M-1.409-.174A1,1,0,0,1,0,.738V13.26a1,1,0,0,1-1.409.913L-15.384,7.912a1,1,0,0,1,0-1.825Z" transform="translate(17)" fill="#e2515c"/>
+    </g>
+    <g id="Group_165" data-name="Group 165">
+      <g id="Terminal" transform="translate(86.071 180.557)">
+        <rect id="Shape-3" data-name="Shape" width="175.422" height="65.783" rx="32.892" fill="#1A1714" stroke="#e2515c" stroke-linejoin="round" stroke-width="2"/>
+      </g>
+      <text id="Settings" transform="translate(174 221)" fill="#f2f2f2" font-size="22" font-family="OpenSans-Regular, Open Sans"><tspan x="-40.783" y="0">Settings</tspan></text>
+    </g>
+    <g id="_1" data-name="#1" transform="translate(181.782 245.34) rotate(90)">
+      <rect id="Rectangle" width="77.85" height="2" transform="translate(1 7)" fill="#e2515c"/>
+      <path id="Shape-4" data-name="Shape" d="M1.4.349A1,1,0,0,0,0,1.264V12.736a1,1,0,0,0,1.4.915L14.382,7.915a1,1,0,0,0,0-1.829Z" transform="translate(64.85 1)" fill="#e2515c"/>
+    </g>
+    <g id="_1-2" data-name="#1" transform="translate(244.398 398.611)">
+      <g id="Group_176" data-name="Group 176" transform="translate(1 -0.177)">
+        <rect id="Rectangle-2" data-name="Rectangle" width="144.602" height="2" transform="translate(0 7.177)" fill="#e2515c"/>
+        <path id="Shape-5" data-name="Shape" d="M12.758.138A1,1,0,0,1,14.263,1V15.353a1,1,0,0,1-1.505.863L.495,9.04a1,1,0,0,1,0-1.726Z" transform="translate(144.602 16.354) rotate(180)" fill="#e2515c"/>
+      </g>
+    </g>
+    <g id="Group_203" data-name="Group 203" transform="translate(-7.64 -148.262)">
+      <g id="Decision" transform="translate(105.921 479.373)">
+        <rect id="Shape-6" data-name="Shape" width="106.774" height="106.774" transform="translate(75.5 0) rotate(45)" fill="#1A1714" stroke="#e2515c" stroke-linejoin="round" stroke-width="2"/>
+      </g>
+      <text id="Change_Password_" data-name="Change
+Password?" transform="translate(181 549)" fill="#f2f2f2" font-size="20" font-family="OpenSans-Regular, Open Sans"><tspan x="-35.234" y="0">Change</tspan><tspan x="-49.243" y="22">Password?</tspan></text>
+    </g>
+    <g id="Group_" data-name="Group " transform="translate(-257.218 837.897) rotate(-90)">
+      <path id="Line-2" data-name="Line" d="M19.067,0h-78.36C-63.549,0-67,8.373-67,18.7V211.955" transform="translate(166 431)" fill="none" stroke="#e2515c" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>
+      <path id="Shape-7" data-name="Shape" d="M12.758.138A1,1,0,0,1,14.263,1V15.353a1,1,0,0,1-1.505.863L.495,9.04a1,1,0,0,1,0-1.726Z" transform="translate(90.822 647.218) rotate(-90)" fill="#e2515c"/>
+    </g>
+    <g id="Group_204" data-name="Group 204" transform="translate(-218.158 219.69)">
+      <g id="Process" transform="translate(293.504 370.784)">
+        <rect id="Shape-8" data-name="Shape" width="196.556" height="62.355" fill="#1A1714" stroke="#e2515c" stroke-linejoin="round" stroke-width="2"/>
+      </g>
+      <text id="Language" transform="translate(392 409)" fill="#f2f2f2" font-size="20" font-family="OpenSans-Regular, Open Sans"><tspan x="-45.156" y="0">Language</tspan></text>
+    </g>
+    <g id="Group_205" data-name="Group 205" transform="translate(102.338 4.65)">
+      <g id="Process-2" data-name="Process" transform="translate(293.504 370.784)">
+        <rect id="Shape-9" data-name="Shape" width="196.556" height="62.355" fill="#1A1714" stroke="#e2515c" stroke-linejoin="round" stroke-width="2"/>
+      </g>
+      <text id="New_Password" data-name="New Password" transform="translate(392 409)" fill="#f2f2f2" font-size="19" font-family="OpenSans-Regular, Open Sans"><tspan x="-64.863" y="0">New Password</tspan></text>
+    </g>
+    <g id="Group_206" data-name="Group 206" transform="translate(508.672 232.62)">
+      <g id="Process-3" data-name="Process" transform="translate(293.504 370.784)">
+        <rect id="Shape-10" data-name="Shape" width="196.556" height="62.355" fill="#1A1714" stroke="#e2515c" stroke-linejoin="round" stroke-width="2"/>
+      </g>
+      <text id="Invert_Album_and_Artist_Titles" data-name="Invert Album and 
+Artist Titles" transform="translate(392 397.462)" fill="#f2f2f2" font-size="19" font-family="OpenSans-Regular, Open Sans"><tspan x="-79.043" y="0">Invert Album and </tspan><tspan x="-49.277" y="22">Artist Titles</tspan></text>
+    </g>
+    <g id="_1-3" data-name="#1" transform="translate(181.782 480.275) rotate(90)">
+      <rect id="Rectangle-3" data-name="Rectangle" width="102.279" height="2" transform="translate(1 7)" fill="#e2515c"/>
+      <path id="Shape-11" data-name="Shape" d="M1.4.349A1,1,0,0,0,0,1.264V12.736a1,1,0,0,0,1.4.915L14.382,7.915a1,1,0,0,0,0-1.829Z" transform="translate(89.279 1)" fill="#e2515c"/>
+    </g>
+    <g id="Group_210" data-name="Group 210" transform="translate(102.338 337.274)">
+      <g id="Process-4" data-name="Process" transform="translate(293.504 370.784)">
+        <rect id="Shape-12" data-name="Shape" width="196.556" height="62.355" fill="#1A1714" stroke="#e2515c" stroke-linejoin="round" stroke-width="2"/>
+      </g>
+      <text id="Display" transform="translate(392 409)" fill="#f2f2f2" font-size="20" font-family="OpenSans-Regular, Open Sans"><tspan x="-33.848" y="0">Display</tspan></text>
+    </g>
+    <rect id="Rectangle-4" data-name="Rectangle" width="75.163" height="2" transform="translate(592.398 738.236)" fill="#e2515c"/>
+    <g id="Group_211" data-name="Group 211" transform="translate(508.672 446.822)">
+      <g id="Process-5" data-name="Process" transform="translate(293.504 370.784)">
+        <rect id="Shape-13" data-name="Shape" width="196.556" height="62.355" fill="#1A1714" stroke="#e2515c" stroke-linejoin="round" stroke-width="2"/>
+      </g>
+      <text id="Dark_Mode" data-name="Dark Mode" transform="translate(392 409)" fill="#f2f2f2" font-size="20" font-family="OpenSans-Regular, Open Sans"><tspan x="-51.587" y="0">Dark Mode</tspan></text>
+    </g>
+  </g>
+</svg>

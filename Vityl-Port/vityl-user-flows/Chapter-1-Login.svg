@@ -1,0 +1,93 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1920" height="1080" viewBox="0 0 1920 1080">
+  <defs>
+    <clipPath id="clip-Chapter_1_-_Login">
+      <rect width="1920" height="1080"/>
+    </clipPath>
+  </defs>
+  <g id="Chapter_1_-_Login" data-name="Chapter 1 - Login" clip-path="url(#clip-Chapter_1_-_Login)">
+    <rect width="1920" height="1080" fill="#fff"/>
+    <rect id="Rectangle_1" data-name="Rectangle 1" width="1920" height="1080" fill="#1A1714"/>
+    <g id="Group_165" data-name="Group 165">
+      <g id="Terminal" transform="translate(86.071 180.557)">
+        <rect id="Shape" width="175.422" height="65.783" rx="32.892" fill="#1A1714" stroke="#e2515c" stroke-linejoin="round" stroke-width="2"/>
+      </g>
+      <text id="Login" transform="translate(174 221)" fill="#f2f2f2" font-size="22" font-family="OpenSans-Regular, Open Sans"><tspan x="-27.914" y="0">Login</tspan></text>
+    </g>
+    <g id="Group_160" data-name="Group 160" transform="translate(227.915 -166.128)">
+      <g id="Process" transform="translate(293.504 370.784)">
+        <rect id="Shape-2" data-name="Shape" width="196.556" height="62.355" fill="#1A1714" stroke="#e2515c" stroke-linejoin="round" stroke-width="2"/>
+      </g>
+      <text id="Enter_Username" data-name="Enter Username" transform="translate(392 409)" fill="#f2f2f2" font-size="20" font-family="OpenSans-Regular, Open Sans"><tspan x="-75.874" y="0">Enter Username</tspan></text>
+    </g>
+    <g id="Group_163" data-name="Group 163" transform="translate(204.124 -164.373)">
+      <g id="Decision" transform="translate(105.921 479.373)">
+        <rect id="Shape-3" data-name="Shape" width="106.774" height="106.774" transform="translate(75.5 0) rotate(45)" fill="#1A1714" stroke="#e2515c" stroke-linejoin="round" stroke-width="2"/>
+      </g>
+      <text id="Have_an_Account_" data-name="Have an
+Account?" transform="translate(181 549)" fill="#f2f2f2" font-size="20" font-family="OpenSans-Regular, Open Sans"><tspan x="-37.856" y="0">Have an</tspan><tspan x="-41.987" y="22">Account?</tspan></text>
+    </g>
+    <g id="Group_162" data-name="Group 162" transform="translate(-23 86.091)">
+      <g id="Off-Page_Connector" data-name="Off-Page Connector" transform="translate(544.419 423.899)">
+        <path id="Shape-4" data-name="Shape" d="M0,0H104.1V69.4L52.05,104.1,0,69.4Z" fill="#1A1714" stroke="#e2515c" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      </g>
+      <text id="Chapter_1.1" data-name="Chapter
+1.1" transform="translate(596 459)" fill="#f2f2f2" font-size="20" font-family="OpenSans-Regular, Open Sans"><tspan x="-37.358" y="0">Chapter</tspan><tspan x="-14.097" y="28">1.1</tspan></text>
+    </g>
+    <g id="Group_" data-name="Group " transform="translate(-257.218 489.196) rotate(-90)">
+      <path id="Line" d="M76.856,0H-54.117C-61.232,0-67,4.915-67,10.977V124.411" transform="translate(166 431)" fill="none" stroke="#e2515c" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>
+      <path id="Shape-5" data-name="Shape" d="M12.758.138A1,1,0,0,1,14.263,1V15.353a1,1,0,0,1-1.505.863L.495,9.04a1,1,0,0,1,0-1.726Z" transform="translate(90.822 559.674) rotate(-90)" fill="#e2515c"/>
+    </g>
+    <g id="Group_2" data-name="Group " transform="translate(-45.454 644.801) rotate(-90)">
+      <path id="Line-2" data-name="Line" d="M12.8,0H-59.854C-63.8,0-67,4.915-67,10.977V124.411" transform="translate(166 431)" fill="none" stroke="#e2515c" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>
+      <path id="Shape-6" data-name="Shape" d="M12.758.138A1,1,0,0,1,14.263,1V15.353a1,1,0,0,1-1.505.863L.495,9.04a1,1,0,0,1,0-1.726Z" transform="translate(90.822 559.674) rotate(-90)" fill="#e2515c"/>
+    </g>
+    <g id="Group_3" data-name="Group " transform="translate(514.22 227.022) rotate(90)">
+      <path id="Line-3" data-name="Line" d="M79.8,124.411H7.146C3.2,124.411,0,119.5,0,113.433V0" transform="translate(8.178 4.263)" fill="none" stroke="#e2515c" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>
+      <path id="Shape-7" data-name="Shape" d="M12.758,16.216a1,1,0,0,0,1.505-.863V1A1,1,0,0,0,12.758.138L.495,7.314a1,1,0,0,0,0,1.726Z" transform="translate(16.354) rotate(90)" fill="#e2515c"/>
+    </g>
+    <g id="Group_164" data-name="Group 164" transform="translate(594.649 -166.128)">
+      <g id="Process-2" data-name="Process" transform="translate(293.504 370.784)">
+        <rect id="Shape-8" data-name="Shape" width="196.556" height="62.355" fill="#1A1714" stroke="#e2515c" stroke-linejoin="round" stroke-width="2"/>
+      </g>
+      <text id="Enter_Password" data-name="Enter Password" transform="translate(392 409)" fill="#f2f2f2" font-size="20" font-family="OpenSans-Regular, Open Sans"><tspan x="-72.471" y="0">Enter Password</tspan></text>
+    </g>
+    <g id="Group_4" data-name="Group " transform="translate(555.431 445.811) rotate(-90)">
+      <path id="Line-4" data-name="Line" d="M12.8,0H-59.854C-63.8,0-67,4.915-67,10.977V124.411" transform="translate(166 431)" fill="none" stroke="#e2515c" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>
+      <path id="Shape-9" data-name="Shape" d="M12.758.138A1,1,0,0,1,14.263,1V15.353a1,1,0,0,1-1.505.863L.495,9.04a1,1,0,0,1,0-1.726Z" transform="translate(90.822 559.674) rotate(-90)" fill="#e2515c"/>
+    </g>
+    <g id="Group_5" data-name="Group " transform="translate(986.431 204.656) rotate(-90)">
+      <path id="Line-5" data-name="Line" d="M-108,0h71.123c2.311,0,4.184,5.054,4.184,11.288V120.411" transform="translate(108)" fill="none" stroke="#e2515c" stroke-miterlimit="10" stroke-width="2" stroke-dasharray="8"/>
+      <path id="Shape-10" data-name="Shape" d="M12.758,16.216a1,1,0,0,0,1.505-.863V1A1,1,0,0,0,12.758.138L.495,7.314a1,1,0,0,0,0,1.726Z" transform="translate(67.13 128.674) rotate(-90)" fill="#e2515c"/>
+    </g>
+    <g id="Group_166" data-name="Group 166" transform="translate(1039.056 134.541)">
+      <g id="Terminal-2" data-name="Terminal" transform="translate(86.071 180.557)">
+        <rect id="Shape-11" data-name="Shape" width="175.422" height="65.783" rx="32.892" fill="#1A1714" stroke="#e2515c" stroke-linejoin="round" stroke-width="2"/>
+      </g>
+      <text id="Home" transform="translate(173.782 221)" fill="#f2f2f2" font-size="22" font-family="OpenSans-Regular, Open Sans"><tspan x="-31.163" y="0">Home</tspan></text>
+    </g>
+    <g id="Group_168" data-name="Group 168" transform="translate(831.623 -270.226)">
+      <g id="Process-3" data-name="Process" transform="translate(293.504 370.784)">
+        <rect id="Shape-12" data-name="Shape" width="196.556" height="62.355" fill="#1A1714" stroke="#e2515c" stroke-linejoin="round" stroke-width="2"/>
+      </g>
+      <text id="Forgot_Password" data-name="Forgot Password" transform="translate(392 409)" fill="#f2f2f2" font-size="20" font-family="OpenSans-Regular, Open Sans"><tspan x="-77.783" y="0">Forgot Password</tspan></text>
+    </g>
+    <g id="Group_169" data-name="Group 169" transform="translate(1162.464 -270.226)">
+      <g id="Process-4" data-name="Process" transform="translate(293.504 370.784)">
+        <rect id="Shape-13" data-name="Shape" width="196.556" height="62.355" fill="#1A1714" stroke="#e2515c" stroke-linejoin="round" stroke-width="2"/>
+      </g>
+      <text id="Send_Link_to_Email" data-name="Send Link to Email" transform="translate(392 409)" fill="#f2f2f2" font-size="20" font-family="OpenSans-Regular, Open Sans"><tspan x="-85.317" y="0">Send Link to Email</tspan></text>
+    </g>
+    <g id="Group_177" data-name="Group 177">
+      <g id="_1" data-name="#1" transform="translate(1320.683 123.736)">
+        <rect id="Rectangle" width="123.285" height="2" transform="translate(1 7)" fill="#e2515c"/>
+      </g>
+      <path id="Shape-14" data-name="Shape" d="M12.758.138A1,1,0,0,1,14.263,1V15.353a1,1,0,0,1-1.505.863L.495,9.04a1,1,0,0,1,0-1.726Z" transform="translate(1446 139.913) rotate(180)" fill="#e2515c"/>
+    </g>
+    <g id="Group_178" data-name="Group 178">
+      <g id="_1-2" data-name="#1" transform="translate(716.976 227.833)">
+        <rect id="Rectangle-2" data-name="Rectangle" width="162" height="2" transform="translate(1 7)" fill="#e2515c"/>
+      </g>
+      <path id="Shape-15" data-name="Shape" d="M12.758.138A1,1,0,0,1,14.263,1V15.353a1,1,0,0,1-1.505.863L.495,9.04a1,1,0,0,1,0-1.726Z" transform="translate(881 244.011) rotate(180)" fill="#e2515c"/>
+    </g>
+  </g>
+</svg>
